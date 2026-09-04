@@ -12,6 +12,25 @@ Enterprise agents fail for reasons that have little to do with prompt quality. C
 
 This kit turns those concerns into repeatable review steps.
 
+## Assess Your Agent
+
+Use the [Enterprise Readiness Scorecard](assessment/enterprise-readiness-scorecard.md) to evaluate an agent across eight domains and produce a 100-point readiness result.
+
+| Score | Result |
+|---|---|
+| 90–100 | READY |
+| 75–89 | READY WITH CONDITIONS |
+| 0–74 | NOT READY |
+
+Critical security, identity, knowledge-access, sharing, action, ownership, or rollback failures can override the numerical score.
+
+- [Start the assessment](assessment/enterprise-readiness-scorecard.md)
+- [Scoring methodology](assessment/scoring-methodology.md)
+- [Microsoft reference map](docs/microsoft-reference-map.md)
+
+> Community-maintained decision support; not a Microsoft certification, security guarantee, or compliance attestation.
+
+
 ## What is included
 
 | Area | Purpose |
